@@ -1,0 +1,14 @@
+.icon-button {
+  border: none;
+  background-color: transparent;
+}
+
+.nav-header {
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #f8f8f8;
+}
